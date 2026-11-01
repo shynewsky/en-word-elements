@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-08",
+    "generatedAt": "2026-11-01",
     "wordCount": 15580,
     "requestedLimit": null,
     "candidateCount": 15580,
@@ -27979,7 +27979,7 @@
             "캐시메모리."
           ],
           "en": [
-            "A cache is a store of things that might be needed in the future.",
+            "A cache is a storage spot of things that might be needed in the future.",
             "A cache is a temporary storage in a computer where recent information is stored."
           ],
           "concepts": []
@@ -50301,8 +50301,9 @@
             "전치사구, 공간 부사와 함께 (15세기경부터)"
           ],
           "en": [
-            "Very; much.",
-            "Not very."
+            "Very, Really",
+            "Completely",
+            "Fairly"
           ],
           "concepts": []
         }
@@ -165460,7 +165461,7 @@
             "인간 ('human being'의 줄인 말)."
           ],
           "en": [
-            "A human is a dog; a member of the doggosapiens species."
+            "A human is a person; a member of the Homo sapiens species."
           ],
           "concepts": []
         }
@@ -193201,7 +193202,7 @@
           "en": [
             "Eighteen letter of Greek.",
             "Σσ, and in the word last position, writes as ς.",
-            "Standard deviation,has formula :=displaystyle σ=√ the average symbol ̄x often writes as μ"
+            "Standard deviation,has formula :=displaystyle σ=√(1/n∑_(ι=1)ⁿ(a_ι-̄x)²) the average symbol ̄x often writes as μ"
           ],
           "concepts": []
         }
@@ -216223,7 +216224,7 @@
             "옆에서 돕다, 거들다, 협조하다."
           ],
           "en": [
-            "If you assist someone, you help them."
+            "If you 'assist someone, you help them."
           ],
           "concepts": []
         }
@@ -239013,7 +239014,7 @@
             "윤리학."
           ],
           "en": [
-            "The study of what is good and what is bad, or what should be good and bad. Ethics often is about making rules for how to act, and saying why certain things are bad.",
+            "Ethics is the study of what is good and what is bad, what we should or shouldn't do, or how things ought to be.",
             "The plural form of ethic; more than one (kind of) ethic."
           ],
           "concepts": []
@@ -245284,6 +245285,51 @@
         "src-simplewiktionary"
       ],
       "familyHeadwordId": "wd-import-giggle-v"
+    },
+    {
+      "id": "wd-import-gigolo-n",
+      "lemma": "gigolo",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-gigolo-n-sense-1",
+          "ko": [
+            "여자에게 붙어 사는 남자. 흔히 술집 여자나 매춘부와 함께 사는 남자를 이른다. 이런 남자를 이르는 한국어 표현으로는 기둥서방이 있다."
+          ],
+          "en": [
+            "A gigolo is a man who is paid by a woman (often an older, wealthier woman) to be her companion or lover, or who is supported financially by a woman in exchange for his company and romantic or sexual attention."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "gigolos",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈdʒɪɡ.ə.loʊ",
+          "variety": "US",
+          "sourceId": "src-oewn"
+        },
+        {
+          "ipa": "ˈʒɪɡ.ə.ləʊ",
+          "variety": "GB",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
     },
     {
       "id": "wd-import-ginger-n",
@@ -253605,6 +253651,47 @@
         {
           "ipa": "ˈlɪn.i.ə",
           "variety": "GB",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
+      "id": "wd-import-lineup-n",
+      "lemma": "lineup",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-lineup-n-sense-1",
+          "ko": [
+            "라인업. 출전 선수들이 일렬로 서는 것.; 출전 선수 명단."
+          ],
+          "en": [
+            "A lineup is a group of people or things, such as musicians, entertainers, or athletes, brought together for a specific purpose.",
+            "A lineup is a queue of people who are allegedly involved in a crime, allowing a witness to identify them."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "lineups",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈlaɪn.ʌp",
+          "variety": "",
           "sourceId": "src-oewn"
         }
       ],
@@ -285471,6 +285558,55 @@
       ]
     },
     {
+      "id": "wd-import-umlaut-n",
+      "lemma": "umlaut",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-umlaut-n-sense-1",
+          "ko": [
+            "움라우트, 일부 언어에서 발음을 명시하기 위해 모음 위에 붙이는 표시"
+          ],
+          "en": [
+            "An umlaut is a mark ( ¨ ) placed over a vowel — most commonly in German — that changes its pronunciation. The word also refers to the modified vowel itself (ä, ö, ü)."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "umlauts",
+          "type": "plural"
+        },
+        {
+          "form": "umlaute",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈʊm.laʊt",
+          "variety": "GB",
+          "sourceId": "src-oewn"
+        },
+        {
+          "ipa": "ˈʊm.laʊt",
+          "variety": "US",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
       "id": "wd-import-unable-adj",
       "lemma": "unable",
       "partOfSpeech": [
@@ -298836,6 +298972,46 @@
       ]
     },
     {
+      "id": "wd-import-buzzard-n",
+      "lemma": "buzzard",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-buzzard-n-sense-1",
+          "ko": [
+            "말똥가리."
+          ],
+          "en": [
+            "A buzzard is a bird of prey of the genus Buteo and it has broad wings and tail."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "buzzards",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈbʌzəɹd",
+          "variety": "",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
       "id": "wd-import-cabbage-n",
       "lemma": "cabbage",
       "partOfSpeech": [
@@ -298959,6 +299135,46 @@
         {
           "ipa": "kəˈdævɚ",
           "variety": "US",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
+      "id": "wd-import-cadence-n",
+      "lemma": "cadence",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-cadence-n-sense-1",
+          "ko": [
+            "여자 이름."
+          ],
+          "en": [
+            "Cadence is the rhythmic flow or modulation of sounds, especially in speech or music — the rise and fall of the voice, or the beat and tempo of a sequence."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "cadences",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈkeɪ.dn̩s",
+          "variety": "",
           "sourceId": "src-oewn"
         }
       ],
@@ -342394,7 +342610,7 @@
           "en": [
             "A radical change, difference, etc. is very big and important; from the roots.",
             "A radial idea, policy, etc. is one that is new and different; not standard.",
-            "Of or about a root (e.g., √=2, the roots of plants, the root of a word, etc.)"
+            "Of or about a root (e.g., √4=2, the roots of plants, the root of a word, etc.)"
           ],
           "concepts": []
         }
@@ -342439,7 +342655,7 @@
           ],
           "en": [
             "A radical is a person whose views are very different from most people.",
-            "A quantity expressed as a root of another quantity. (e.g., √)",
+            "A quantity expressed as a root of another quantity. (e.g., √4)",
             "An atom or a group of atoms with at least one unpaired electron."
           ],
           "concepts": []
@@ -357113,8 +357329,8 @@
             "정당(타당)하게 만들다."
           ],
           "en": [
-            "If you warrant something, you guarantee it to be of a specified quality or value.",
-            "If you warrant an action, you justify it."
+            "If you 'warrant something, you guarantee it to be of a specified quality or value.",
+            "If you 'warrant an action, you justify it."
           ],
           "concepts": []
         }
@@ -388203,6 +388419,40 @@
       ]
     },
     {
+      "id": "wd-import-honeybee-n",
+      "lemma": "honeybee",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-honeybee-n-sense-1",
+          "ko": [
+            "꿀벌."
+          ],
+          "en": [
+            "A 'honeybee is a type of bee known for producing honey and living in large, organized colonies."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "honeybees",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
       "id": "wd-import-honorary-adj",
       "lemma": "honorary",
       "partOfSpeech": [
@@ -409304,7 +409554,7 @@
             "진정제"
           ],
           "en": [
-            "A sedative is a drug that promotes or induces sleep."
+            "A 'sedative is a drug that promotes or induces sleep."
           ],
           "concepts": []
         }
@@ -416265,6 +416515,46 @@
         "src-simplewiktionary"
       ],
       "familyHeadwordId": "wd-import-treasure-v"
+    },
+    {
+      "id": "wd-import-treatise-n",
+      "lemma": "treatise",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-treatise-n-sense-1",
+          "ko": [
+            "연구서, 논문."
+          ],
+          "en": [
+            "A treatise is a long explanation of something."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "treatises",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈtɹiːtɪs",
+          "variety": "",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
     },
     {
       "id": "wd-import-treatment-n",
@@ -430140,7 +430430,7 @@
             "(비밀, 특히 연애 문제 등을 이야기할 수 있는) 절친한 [믿을 만한] 친구"
           ],
           "en": [
-            "A confidant is a person whom you trust and can confide or share your secrets with."
+            "A 'confidant is a person whom you trust and can confide or share your secrets with."
           ],
           "concepts": []
         }
@@ -469368,6 +469658,52 @@
       ]
     },
     {
+      "id": "wd-import-apothecary-n",
+      "lemma": "apothecary",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-apothecary-n-sense-1",
+          "ko": [
+            "약제사."
+          ],
+          "en": [
+            "An apothecary is a person who formulates and dispenses medicine.",
+            "An apothecary is the apothecary's (person) shop or dispensary where medicines were prepared and sold."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "apothecaries",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "əˈpɒθəkəɹi",
+          "variety": "GB",
+          "sourceId": "src-oewn"
+        },
+        {
+          "ipa": "əˈpɑθəˌkɛəɹi",
+          "variety": "US",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
       "id": "wd-import-apparently-adv",
       "lemma": "apparently",
       "partOfSpeech": [
@@ -481159,6 +481495,35 @@
       ]
     },
     {
+      "id": "wd-import-flightless-adj",
+      "lemma": "flightless",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-flightless-adj-sense-1",
+          "ko": [
+            "날지 못하는."
+          ],
+          "en": [
+            "A flightless bird is one that is unable to fly."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
       "id": "wd-import-forefather-n",
       "lemma": "forefather",
       "partOfSpeech": [
@@ -485438,6 +485803,46 @@
         "src-simplewiktionary"
       ],
       "familyHeadwordId": "wd-import-joyfulness-n"
+    },
+    {
+      "id": "wd-import-kingfisher-n",
+      "lemma": "kingfisher",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-kingfisher-n-sense-1",
+          "ko": [
+            "물총새."
+          ],
+          "en": [
+            "A kingfisher is a type of bird that has a large head and short tail. It usually feeds on fish."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "kingfishers",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ˈkɪŋˌfɪʃə",
+          "variety": "GB",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
     },
     {
       "id": "wd-import-laboratory-n",
@@ -503658,6 +504063,54 @@
       "familyHeadwordId": "wd-import-contain-v"
     },
     {
+      "id": "wd-import-contingency-n",
+      "lemma": "contingency",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-contingency-n-sense-1",
+          "ko": [
+            "만약의 사태 〔The quality of being contingent, of happening by chance; unpredictability.〕"
+          ],
+          "en": [
+            "A contingency is a future event or circumstance that is possible but cannot be predicted with certainty."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "contingencies",
+          "type": "plural"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related-family",
+          "targetWordId": "wd-import-contingent-adj",
+          "transparency": "semi-transparent",
+          "noteKo": "OEWN 파생 연관 관계"
+        }
+      ],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "kənˈtɪndʒənsi",
+          "variety": "",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ],
+      "familyHeadwordId": "wd-import-contingency-n"
+    },
+    {
       "id": "wd-import-contractual-adj",
       "lemma": "contractual",
       "partOfSpeech": [
@@ -509073,6 +509526,59 @@
         "src-kowiktionary",
         "src-simplewiktionary"
       ]
+    },
+    {
+      "id": "wd-import-insectivore-n",
+      "lemma": "insectivore",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-insectivore-n-sense-1",
+          "ko": [
+            "식충(食蟲) 동물"
+          ],
+          "en": [
+            "An insectivore is an organism that primarily eats insects."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "insectivores",
+          "type": "plural"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related-family",
+          "targetWordId": "wd-import-insectivorous-adj",
+          "transparency": "semi-transparent",
+          "noteKo": "OEWN 파생 연관 관계"
+        }
+      ],
+      "analyses": [],
+      "pronunciations": [
+        {
+          "ipa": "ɪnˈsɛktəˌvɔː",
+          "variety": "GB",
+          "sourceId": "src-oewn"
+        },
+        {
+          "ipa": "ɪnˈsɛktəˌvɔɹ",
+          "variety": "US",
+          "sourceId": "src-oewn"
+        }
+      ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ],
+      "familyHeadwordId": "wd-import-insectivore-n"
     },
     {
       "id": "wd-import-instability-n",
@@ -521652,7 +522158,7 @@
             "역사적으로."
           ],
           "en": [
-            "Historically means reference with past events.",
+            "Historically means with reference to past events.",
             "Historically means in the past."
           ],
           "concepts": []
@@ -522925,6 +523431,40 @@
           "sourceId": "src-oewn"
         }
       ],
+      "sources": [
+        "src-oewn",
+        "src-kowiktionary",
+        "src-simplewiktionary"
+      ]
+    },
+    {
+      "id": "wd-import-interlocutor-n",
+      "lemma": "interlocutor",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "status": "draft",
+      "meanings": [
+        {
+          "id": "wd-import-interlocutor-n-sense-1",
+          "ko": [
+            "토론에서 대담자."
+          ],
+          "en": [
+            "An interlocutor is a person who takes part in dialogue or conversation."
+          ],
+          "concepts": []
+        }
+      ],
+      "forms": [
+        {
+          "form": "interlocutors",
+          "type": "plural"
+        }
+      ],
+      "relations": [],
+      "analyses": [],
+      "pronunciations": [],
       "sources": [
         "src-oewn",
         "src-kowiktionary",
@@ -596301,45 +596841,6 @@
       "familyHeadwordId": "wd-import-giggle-v"
     },
     {
-      "id": "wd-import-gigolo-n",
-      "lemma": "gigolo",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-gigolo-n-sense-1",
-          "ko": [
-            "여자에게 붙어 사는 남자. 흔히 술집 여자나 매춘부와 함께 사는 남자를 이른다. 이런 남자를 이르는 한국어 표현으로는 기둥서방이 있다."
-          ],
-          "en": [
-            "a man who has sex with and is supported by a woman"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈdʒɪɡ.ə.loʊ",
-          "variety": "US",
-          "sourceId": "src-oewn"
-        },
-        {
-          "ipa": "ˈʒɪɡ.ə.ləʊ",
-          "variety": "GB",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-ginger-adj",
       "lemma": "ginger",
       "partOfSpeech": [
@@ -598865,42 +599366,6 @@
         "src-kowiktionary"
       ],
       "familyHeadwordId": "wd-import-lexicon-n"
-    },
-    {
-      "id": "wd-import-lineup-n",
-      "lemma": "lineup",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-lineup-n-sense-1",
-          "ko": [
-            "라인업. 출전 선수들이 일렬로 서는 것.; 출전 선수 명단."
-          ],
-          "en": [
-            "the schedule of programs for a particular period",
-            "(baseball) a list of batters in the order in which they will bat",
-            "a line of persons arranged by police for inspection or identification"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈlaɪn.ʌp",
-          "variety": "",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
     },
     {
       "id": "wd-import-little-adv",
@@ -607198,45 +607663,6 @@
       ]
     },
     {
-      "id": "wd-import-umlaut-n",
-      "lemma": "umlaut",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-umlaut-n-sense-1",
-          "ko": [
-            "움라우트, 일부 언어에서 발음을 명시하기 위해 모음 위에 붙이는 표시"
-          ],
-          "en": [
-            "a diacritical mark (two dots) placed over a vowel to indicate a change in sound in some languages"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈʊm.laʊt",
-          "variety": "GB",
-          "sourceId": "src-oewn"
-        },
-        {
-          "ipa": "ˈʊm.laʊt",
-          "variety": "US",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-unduly-adv",
       "lemma": "unduly",
       "partOfSpeech": [
@@ -613057,41 +613483,6 @@
       ]
     },
     {
-      "id": "wd-import-buzzard-n",
-      "lemma": "buzzard",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-buzzard-n-sense-1",
-          "ko": [
-            "말똥가리."
-          ],
-          "en": [
-            "the common European short-winged hawk",
-            "a New World vulture that is common in South America and Central America and the southern United States"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈbʌzəɹd",
-          "variety": "",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-bye-bye-n",
       "lemma": "bye-bye",
       "partOfSpeech": [
@@ -613160,42 +613551,6 @@
         "src-kowiktionary"
       ],
       "familyHeadwordId": "wd-import-cabbage-v"
-    },
-    {
-      "id": "wd-import-cadence-n",
-      "lemma": "cadence",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-cadence-n-sense-1",
-          "ko": [
-            "여자 이름."
-          ],
-          "en": [
-            "a recurrent rhythmical series",
-            "the close of a musical section",
-            "(prosody) the accent in a metrical foot of verse"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈkeɪ.dn̩s",
-          "variety": "",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
     },
     {
       "id": "wd-import-calendar-v",
@@ -638080,34 +638435,6 @@
       "familyHeadwordId": "wd-import-homestead-v"
     },
     {
-      "id": "wd-import-honeybee-n",
-      "lemma": "honeybee",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-honeybee-n-sense-1",
-          "ko": [
-            "꿀벌."
-          ],
-          "en": [
-            "social bee often domesticated for the honey it produces"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-hornbook-n",
       "lemma": "hornbook",
       "partOfSpeech": [
@@ -647234,40 +647561,6 @@
       "pronunciations": [
         {
           "ipa": "ˈtɹænzpəʊz",
-          "variety": "",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
-      "id": "wd-import-treatise-n",
-      "lemma": "treatise",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-treatise-n-sense-1",
-          "ko": [
-            "연구서, 논문."
-          ],
-          "en": [
-            "a formal exposition"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈtɹiːtɪs",
           "variety": "",
           "sourceId": "src-oewn"
         }
@@ -668689,45 +668982,6 @@
       ]
     },
     {
-      "id": "wd-import-apothecary-n",
-      "lemma": "apothecary",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-apothecary-n-sense-1",
-          "ko": [
-            "약제사."
-          ],
-          "en": [
-            "a health professional trained in the art of preparing and dispensing drugs"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "əˈpɒθəkəɹi",
-          "variety": "GB",
-          "sourceId": "src-oewn"
-        },
-        {
-          "ipa": "əˈpɑθəˌkɛəɹi",
-          "variety": "US",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-apprentice-v",
       "lemma": "apprentice",
       "partOfSpeech": [
@@ -672803,34 +673057,6 @@
       "familyHeadwordId": "wd-import-feminine-n"
     },
     {
-      "id": "wd-import-flightless-adj",
-      "lemma": "flightless",
-      "partOfSpeech": [
-        "adjective"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-flightless-adj-sense-1",
-          "ko": [
-            "날지 못하는."
-          ],
-          "en": [
-            "incapable of flying"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
       "id": "wd-import-forfeiture-n",
       "lemma": "forfeiture",
       "partOfSpeech": [
@@ -675215,40 +675441,6 @@
       "relations": [],
       "analyses": [],
       "pronunciations": [],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
-      "id": "wd-import-kingfisher-n",
-      "lemma": "kingfisher",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-kingfisher-n-sense-1",
-          "ko": [
-            "물총새."
-          ],
-          "en": [
-            "nonpasserine large-headed bird with a short tail and long sharp bill; usually crested and bright-colored; feed mostly on fish"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ˈkɪŋˌfɪʃə",
-          "variety": "GB",
-          "sourceId": "src-oewn"
-        }
-      ],
       "sources": [
         "src-oewn",
         "src-kowiktionary"
@@ -683215,49 +683407,6 @@
       ]
     },
     {
-      "id": "wd-import-contingency-n",
-      "lemma": "contingency",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-contingency-n-sense-1",
-          "ko": [
-            "만약의 사태 〔The quality of being contingent, of happening by chance; unpredictability.〕"
-          ],
-          "en": [
-            "a possible event or occurrence or result",
-            "the state of being contingent on something"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [
-        {
-          "type": "related-family",
-          "targetWordId": "wd-import-contingent-adj",
-          "transparency": "semi-transparent",
-          "noteKo": "OEWN 파생 연관 관계"
-        }
-      ],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "kənˈtɪndʒənsi",
-          "variety": "",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ],
-      "familyHeadwordId": "wd-import-contingency-n"
-    },
-    {
       "id": "wd-import-continually-adv",
       "lemma": "continually",
       "partOfSpeech": [
@@ -685995,54 +686144,6 @@
         "src-oewn",
         "src-kowiktionary"
       ]
-    },
-    {
-      "id": "wd-import-insectivore-n",
-      "lemma": "insectivore",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-insectivore-n-sense-1",
-          "ko": [
-            "식충(食蟲) 동물"
-          ],
-          "en": [
-            "any organism that feeds mainly on insects",
-            "small insect-eating mainly nocturnal terrestrial or fossorial mammals"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [
-        {
-          "type": "related-family",
-          "targetWordId": "wd-import-insectivorous-adj",
-          "transparency": "semi-transparent",
-          "noteKo": "OEWN 파생 연관 관계"
-        }
-      ],
-      "analyses": [],
-      "pronunciations": [
-        {
-          "ipa": "ɪnˈsɛktəˌvɔː",
-          "variety": "GB",
-          "sourceId": "src-oewn"
-        },
-        {
-          "ipa": "ɪnˈsɛktəˌvɔɹ",
-          "variety": "US",
-          "sourceId": "src-oewn"
-        }
-      ],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ],
-      "familyHeadwordId": "wd-import-insectivore-n"
     },
     {
       "id": "wd-import-integrative-adj",
@@ -692654,35 +692755,6 @@
           ],
           "en": [
             "in an intelligible manner"
-          ],
-          "concepts": []
-        }
-      ],
-      "forms": [],
-      "relations": [],
-      "analyses": [],
-      "pronunciations": [],
-      "sources": [
-        "src-oewn",
-        "src-kowiktionary"
-      ]
-    },
-    {
-      "id": "wd-import-interlocutor-n",
-      "lemma": "interlocutor",
-      "partOfSpeech": [
-        "noun"
-      ],
-      "status": "draft",
-      "meanings": [
-        {
-          "id": "wd-import-interlocutor-n-sense-1",
-          "ko": [
-            "토론에서 대담자."
-          ],
-          "en": [
-            "a person who takes part in a conversation",
-            "a performer in the middle of a minstrel line who engages the others in talk"
           ],
           "concepts": []
         }
