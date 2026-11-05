@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "English Word Elements",
-    "repository": "english-word-elements",
+    "repository": "en-word-elements",
     "schemaVersion": 2,
     "dataVersion": "0.7.1",
     "language": "en",
@@ -44,7 +44,7 @@
     {
       "id": "src-editorial",
       "name": "English Word Elements editorial analysis",
-      "url": "https://github.com/shynewsky/english-word-elements",
+      "url": "https://github.com/shynewsky/en-word-elements",
       "license": "CC BY-SA 4.0",
       "role": "Korean glosses, pedagogical segmentation and sense linking"
     }
