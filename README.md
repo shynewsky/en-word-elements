@@ -4,7 +4,7 @@ English Word Elements is a static vocabulary explorer for learning how English w
 
 ## Live site
 
-https://shynewsky.github.io/english-word-elements/
+https://shynewsky.github.io/en-word-elements/
 
 ## What it does
 
